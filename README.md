@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! 💌  
 
-This website showcases my projects and skills as a front-end developer student as welll as my work experience and education.
+This website showcases my projects and skills as a front-end developer student as well as my work experience and education history.
 
 ## 📂 Projects
 - **My First Website**
